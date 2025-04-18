@@ -5,8 +5,13 @@ CRUD Task Management System
 Стек:
 
 Spring boot
+
 PostgreSQL
+
 Lombok
+
 Spring data JPA
+
 Hibernate
+
 maven
